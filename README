@@ -1,0 +1,10 @@
+
+This program makes an adjacency list representation though through the method of Depth-First-Search (DFS) given the input data.
+
+1. List.c = The List ADT 
+2. List.h = the header file for the List ADT
+3. Graph.c = implements the graph adt 
+4. Graph.h = header file fopr the graph adt
+6. FindComponents.c = Top level client that inputs graphs 
+7. Makefile = Makefile for program
+8. README = This file
