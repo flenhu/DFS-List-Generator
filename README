@@ -1,5 +1,5 @@
 
-This program makes an adjacency list representation though through the method of Depth-First-Search (DFS) given the input data.
+This program makes an adjacency list representation through the method of Depth-First-Search (DFS) given the input data.
 
 1. List.c = The List ADT 
 2. List.h = the header file for the List ADT
